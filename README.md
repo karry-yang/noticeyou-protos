@@ -1,2 +1,2 @@
 # noticeyou-protos
-noticeyou统一冠以protow文件仓库
+noticeyou统一管理protow文件仓库
